@@ -1,0 +1,18 @@
+{
+    "name": "foo",
+    "version": "0.0.1",
+    "description": "basic-nodejs-socketio-real-time-display",
+    "author": "ezbits",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ezbits/basic-nodejs-socketio-real-time-display"
+    },
+    "dependencies": {
+        "express": "latest",
+        "forever": "latest",
+        "jade": "latest",
+        "redis": "latest",
+        "request": "latest",
+        "socket.io": "latest"
+    }
+}
