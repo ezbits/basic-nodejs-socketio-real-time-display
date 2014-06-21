@@ -4,8 +4,8 @@ basic-nodejs-socketio-real-time-display
 basic nodejs / socketio page with real time updates
 
 ## Requirements
-      1. [NodeJS](http://www.nodejs.org)
-      1. [Redis](http://www.redis.io)
+      1. NodeJS http://www.nodejs.org
+      2. Redis http://www.redis.io
 
 ## Installation and Testing
 
